@@ -1,8 +1,8 @@
 /*!
-# hx-node-template
+# io-ts-graphql
 
 This product contains software originally developed by Holvonix LLC.
-Original Repository: https://github.com/holvonix-open/hx-node-template
+Original Repository: https://github.com/holvonix-open/io-ts-graphql
 
 Copyright (c) 2019 Holvonix LLC. All rights reserved.
 

@@ -1,13 +1,17 @@
 {
-  "name": "hx-node-template",
+  "name": "io-ts-graphql",
   "version": "0.1.0-alpha.1",
-  "description": "TODO",
+  "description": "GraphQL schema generation from io-ts codecs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/holvonix-open/hx-node-template.git"
+    "url": "https://github.com/holvonix-open/io-ts-graphql.git"
   },
   "keywords": [
-    "TODO"
+    "io-ts",
+    "graphql",
+    "schema",
+    "codecs",
+    "generator"
   ],
   "engines": {
     "node": "^10.0.0 || ^ 12.0.0",
@@ -101,7 +105,12 @@
     "forbid-pending": true,
     "spec": "./build/test/**/test-*.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "fp-ts": "^2.0.5",
+    "io-ts": "^2.0.1",
+    "io-ts-types": "^0.5.0",
+    "monocle-ts": "^2.0.0"
+  },
   "devDependencies": {
     "@holvonix-open/release-config-js": "^1.0.6",
     "@types/mocha": "^5.2.5",

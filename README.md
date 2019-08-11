@@ -1,13 +1,13 @@
-# hx-node-template -
+# io-ts-graphql -
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
-[![npm](https://img.shields.io/npm/v/hx-node-template.svg)](https://www.npmjs.com/package/hx-node-template)
-[![Build Status](https://travis-ci.com/holvonix-open/hx-node-template.svg?branch=master)](https://travis-ci.com/holvonix-open/hx-node-template)
-[![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/hx-node-template.svg)](https://github.com/holvonix-open/hx-node-template/commits)
-[![codecov](https://codecov.io/gh/holvonix-open/hx-node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/hx-node-template)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/hx-node-template)](https://dependabot.com)
+[![npm](https://img.shields.io/npm/v/io-ts-graphql.svg)](https://www.npmjs.com/package/io-ts-graphql)
+[![Build Status](https://travis-ci.com/holvonix-open/io-ts-graphql.svg?branch=master)](https://travis-ci.com/holvonix-open/io-ts-graphql)
+[![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/io-ts-graphql.svg)](https://github.com/holvonix-open/io-ts-graphql/commits)
+[![codecov](https://codecov.io/gh/holvonix-open/io-ts-graphql/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/io-ts-graphql)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/io-ts-graphql)](https://dependabot.com)
 [![DeepScan grade](https://deepscan.io/api/teams/XX/projects/YY/branches/ZZ/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=XX&pid=YY&bid=ZZ)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/hx-node-template.svg)](https://bundlephobia.com/result?p=hx-node-template)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/io-ts-graphql.svg)](https://bundlephobia.com/result?p=io-ts-graphql)
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
@@ -17,10 +17,10 @@ that's not acceptable for you.
 
 ## Quick Start
 
-After `yarn add hx-node-template`:
+After `yarn add io-ts-graphql`:
 
 ```typescript
-import { TODO } from 'hx-node-template';
+import { TODO } from 'io-ts-graphql';
 
 async function getIt() {
   // TODO
@@ -35,10 +35,10 @@ under Section 4d of the License.
 
 ```
 
-# hx-node-template
+# io-ts-graphql
 
 This product contains software originally developed by Holvonix LLC.
-Original Repository: https://github.com/holvonix-open/hx-node-template
+Original Repository: https://github.com/holvonix-open/io-ts-graphql
 
 Copyright (c) 2019 Holvonix LLC. All rights reserved.
 
