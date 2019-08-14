@@ -112,7 +112,7 @@
     "monocle-ts": "^2.0.0"
   },
   "devDependencies": {
-    "@holvonix-open/release-config-js": "^1.0.6",
+    "@holvonix-open/release-config-js": "^1.0.8",
     "@types/mocha": "^5.2.5",
     "@types/node": "^12.7.1",
     "chokidar-cli": "^2.0.0",
